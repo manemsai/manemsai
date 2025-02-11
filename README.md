@@ -1,10 +1,10 @@
 
 # [Mr. Mohana Manem]
 
-Hello! 👋 I'm Mohan, an experienced electrical engineer who's embarking on a journey into the world of data analytics. Here's a bit about my background and aspirations:
+Hello! 👋 I'm Mohana, an experienced energy analyst who's embarking on a journey into the world of data analytics. Here's a bit about my background and aspirations:
 
-- 🔌 I have 9 years of experience in electrical engineering, specializing in Power Generation.
-- 📚 I hold a degree in Electrical and Electronics Engineering, and I've worked on projects related to Power Plant Commissioning.
+- 🔌 I have overall 9 years of experience including 5+ years in the data analytics domain.
+- 📚 I hold a Master's degree in Data Analytics, and I've worked on projects related to Regression, classification and chatbot building.
 - 📈 I'm passionate about data analytics and its potential to drive insights and innovation.
 
 ## Transition to Data Analytics
@@ -17,20 +17,10 @@ Hello! 👋 I'm Mohan, an experienced electrical engineer who's embarking on a j
 
 Here are some of the skills I bring to the table:
 
-- **Electrical Engineering**: Problem Solving, Optimization, Power systems, Machines, Electric Drives
-- **Data Analysis**:Python, SQL, Advanced Excel.
 - **Programming Languages**: Python
 - **Statistical Analysis**: Hypothesis Testing,A/B Testing
 - **Data Visualization**: PowerBI,Tableau,matplotlib,seaborn
 - **Machine Learning**: Linear Regression, Logistic Regression, Random Forest
-## Projects
-
-I'm excited to share some of my recent projects:
-
-1. **[Project 1]** - Data Exploration of Brazilian E-Commerce Public Dataset by Olist using Microsoft SQL server.
-   - Repository: https://github.com/manemsai/Ecommerce-analysis
-   - Technologies used: Microsoft SQL Server
-   - For more projects checkout my repositories https://github.com/manemsai?tab=repositories
       
 
 
