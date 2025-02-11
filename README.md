@@ -27,7 +27,7 @@ Here are some of the skills I bring to the table:
 
 ## Connect with Me
 
-- LinkedIn: linkedin.com/in/mohanmanem
+- LinkedIn: https://www.linkedin.com/in/mohanamanem/
 - Email: manemmohan.217@gmail.com
 ## Learning Journey
 
